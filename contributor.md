@@ -1,17 +1,16 @@
 # Contributors Hall of Fame 🎖
 Add Your Github Username
 
-1. Denzil10
-2. omkar1728
-3. Gaux29
-4. 3watermelons
-5. torvalds
-6. gaearon
-7. sindresorhus
-8. yyx990803
-9. tj
-10. mitchellh
-
+1. sabagithu
+2. Sushant042
+3. Shi28reesha
+4. Manikant292002
+5. Chaith9481
+6. SHREE0716
+7. PRABHATH1112
+8. maheshabsgmit
+9. Supreet07-gif
+10. nisargacs912
 
 
 
