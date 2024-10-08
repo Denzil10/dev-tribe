@@ -8,7 +8,7 @@ Add Your Github Username
 5. Monisha B U
 6. sumeet8337
 7. Siddarath3670
-8.Pallavi M-DBIT
+8. PallaviMNaicker
 
 
 
