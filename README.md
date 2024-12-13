@@ -7,9 +7,12 @@ Hey! I'm Denzil, and I’m on a mission to help students learn coding the right 
 Let’s connect and make things happen! 🔥
 
 ### Connect with me:
-- 👥 [Whatsapp Community](https://www.instagram.com/denzil.nelson.10/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/denzil-nelson-b18121220/)
-- 🌐 [Website](https://www.instagram.com/denzil.nelson.10/)
+<ul>
+  <li><a href="https://www.instagram.com/denzil.nelson.10/" target="_blank">👥 Whatsapp Community</a></li>
+  <li><a href="https://www.linkedin.com/in/denzil-nelson-b18121220/" target="_blank">💼 LinkedIn</a></li>
+  <li><a href="https://www.instagram.com/denzil.nelson.10/" target="_blank">🌐 Website</a></li>
+</ul>
+
 
 ---
 
