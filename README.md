@@ -8,9 +8,9 @@ Let’s connect and make things happen! 🔥
 
 ### Connect with me:
 <ul>
-  <li><a href="https://www.instagram.com/denzil.nelson.10/" target="_blank">👥 Whatsapp Community</a></li>
+  <li><a href="https://chat.whatsapp.com/BkMq55Sx85s4876sNDvL2A"_blank">👥 Whatsapp Community</a></li>
   <li><a href="https://www.linkedin.com/in/denzil-nelson-b18121220/" target="_blank">💼 LinkedIn</a></li>
-  <li><a href="https://www.instagram.com/denzil.nelson.10/" target="_blank">🌐 Website</a></li>
+  <li><a href="https://next-sigma-weld.vercel.app/"_blank">🌐 Website</a></li>
 </ul>
 
 
