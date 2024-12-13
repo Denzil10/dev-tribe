@@ -8,7 +8,7 @@ Let’s connect and make things happen! 🔥
 
 ### Connect with me:
 <ul>
-  <li><a href="https://chat.whatsapp.com/BkMq55Sx85s4876sNDvL2A"_blank">👥 Whatsapp Community</a></li>
+  <li><a href="https://chat.whatsapp.com/Bw8zW5pYrKy1JR1WhBd5FT">👥 Whatsapp Community</a></li>
   <li><a href="https://www.linkedin.com/in/denzil-nelson-b18121220/" target="_blank">💼 LinkedIn</a></li>
   <li><a href="https://next-sigma-weld.vercel.app/"_blank">🌐 Website</a></li>
 </ul>
@@ -66,7 +66,5 @@ Let’s connect and make things happen! 🔥
 ---
 
 > **Support me:** Leave a review <a href="https://www.superprof.co.in/ir/33615137-04f85c" target="_blank" rel="noopener noreferrer">here</a>, this will be remind me to accept your Pull Request⭐!
-
----
 
 ---
