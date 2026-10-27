@@ -10,8 +10,11 @@ Let’s connect and make things happen! 🔥
 <ul>
   <li><a href="https://chat.whatsapp.com/Bw8zW5pYrKy1JR1WhBd5FT">👥 Whatsapp Community</a></li>
   <li><a href="https://www.linkedin.com/in/denzil-nelson-b18121220/" target="_blank">💼 LinkedIn</a></li>
-  <li><a href="https://next-sigma-weld.vercel.app/"_blank">🌐 Website</a></li>
+  <li><a href="https://denzil10.github.io/" target="_blank">🌐 Website</a></li>
 </ul>
+
+### Next: the agent setup I actually run
+Skills, a browser controller and guard hooks for Claude Code and Codex, open and MIT licensed: <a href="https://github.com/Denzil10/agent-setup">agent-setup</a>. What I build and measure with it: <a href="https://denzil10.github.io/blog/">blog</a>.
 
 
 ---
